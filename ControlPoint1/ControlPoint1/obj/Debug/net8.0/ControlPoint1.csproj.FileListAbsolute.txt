@@ -1,0 +1,14 @@
+C:\Users\User\source\gitRepos\ControlPoints_C-\ControlPoint1\ControlPoint1\bin\Debug\net8.0\ControlPoint1.exe
+C:\Users\User\source\gitRepos\ControlPoints_C-\ControlPoint1\ControlPoint1\bin\Debug\net8.0\ControlPoint1.deps.json
+C:\Users\User\source\gitRepos\ControlPoints_C-\ControlPoint1\ControlPoint1\bin\Debug\net8.0\ControlPoint1.runtimeconfig.json
+C:\Users\User\source\gitRepos\ControlPoints_C-\ControlPoint1\ControlPoint1\bin\Debug\net8.0\ControlPoint1.dll
+C:\Users\User\source\gitRepos\ControlPoints_C-\ControlPoint1\ControlPoint1\bin\Debug\net8.0\ControlPoint1.pdb
+C:\Users\User\source\gitRepos\ControlPoints_C-\ControlPoint1\ControlPoint1\obj\Debug\net8.0\ControlPoint1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\gitRepos\ControlPoints_C-\ControlPoint1\ControlPoint1\obj\Debug\net8.0\ControlPoint1.AssemblyInfoInputs.cache
+C:\Users\User\source\gitRepos\ControlPoints_C-\ControlPoint1\ControlPoint1\obj\Debug\net8.0\ControlPoint1.AssemblyInfo.cs
+C:\Users\User\source\gitRepos\ControlPoints_C-\ControlPoint1\ControlPoint1\obj\Debug\net8.0\ControlPoint1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\gitRepos\ControlPoints_C-\ControlPoint1\ControlPoint1\obj\Debug\net8.0\ControlPoint1.dll
+C:\Users\User\source\gitRepos\ControlPoints_C-\ControlPoint1\ControlPoint1\obj\Debug\net8.0\refint\ControlPoint1.dll
+C:\Users\User\source\gitRepos\ControlPoints_C-\ControlPoint1\ControlPoint1\obj\Debug\net8.0\ControlPoint1.pdb
+C:\Users\User\source\gitRepos\ControlPoints_C-\ControlPoint1\ControlPoint1\obj\Debug\net8.0\ControlPoint1.genruntimeconfig.cache
+C:\Users\User\source\gitRepos\ControlPoints_C-\ControlPoint1\ControlPoint1\obj\Debug\net8.0\ref\ControlPoint1.dll
